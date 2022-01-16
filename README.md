@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me)  
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
