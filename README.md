@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
+  <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
 </a>
