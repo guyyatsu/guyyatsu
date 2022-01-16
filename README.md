@@ -8,6 +8,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyyatsu&theme=synthwave&hide=jupyter%20notebook,powershell,dockerfile,c,roff,nu,shell,javascript"
 </a>
 
-[![Guyyatsu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guyyatsu&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guyyatsu&theme=synthwave"
+</a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
