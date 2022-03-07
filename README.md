@@ -28,8 +28,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyyatsu&theme=synthwave&hide=jupyter%20notebook,powershell,dockerfile,c,roff,nu,shell,javascript">
 </a>
 
-<br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guyyatsu&theme=synthwave">
 </a>
