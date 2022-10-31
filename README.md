@@ -32,10 +32,12 @@
     <li>Git</li>
     <li>Structured Query Language</li>
   </ul>
+  <h3>Projects</h3>
+  <ul>
+    <li>Lab-93</li>
+    <li>Eastern-Mysticism</li>
 </div>
 
-<br>
-
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
+  <img align="float right" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
 </a>
