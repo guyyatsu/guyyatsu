@@ -25,6 +25,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyyatsu&theme=synthwave&hide=jupyter%20notebook,powershell,dockerfile,c,roff,nu,shell,javascript">
 </a>
 
+<div aligh="left">
+  <h3>Skills</h3>
+</div>
+
 <br>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
