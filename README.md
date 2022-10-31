@@ -1,6 +1,5 @@
 [![Header](https://raw.githubusercontent.com/guyyatsu/guyyatsu/main/banner.png "Header")](https://guyyatsu.me)
-
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me)  
+  
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
