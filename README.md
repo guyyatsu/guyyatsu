@@ -25,8 +25,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyyatsu&theme=synthwave&hide=jupyter%20notebook,powershell,dockerfile,c,roff,nu,shell,javascript">
 </a>
 
-<div aligh="left">
+<div align="left">
   <h3>Skills</h3>
+  <ul>
+    <li>Python3</li>
+    <li>Git</li>
+    <li>Structured Query Language</li>
+  </ul>
 </div>
 
 <br>
