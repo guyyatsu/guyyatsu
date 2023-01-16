@@ -8,9 +8,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)  
 
-<a href="guyyatsu.me">
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me">
-</a>
+<a href="https://guyyatsu.me"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me"></a>
 
 <!--
 <a href="https://github.com/kittinan/spotify-github-profile">
