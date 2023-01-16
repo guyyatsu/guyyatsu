@@ -10,6 +10,7 @@
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fguyyatsu.me)  
 
+<!--
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="float left" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
 </a>
@@ -26,5 +27,4 @@
     <li>Lab-93</li>
     <li>Eastern-Mysticism</li>
 </div>
-
-
+-->
