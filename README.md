@@ -10,15 +10,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guyyatsu&theme=synthwave">
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="float left" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyyatsu&theme=synthwave&hide=jupyter%20notebook,powershell,dockerfile,c,roff,nu,shell,javascript">
-</a>
-
-<div align="left">
+<div>
   <h3>Skills</h3>
   <ul>
     <li>Python3</li>
@@ -31,6 +27,4 @@
     <li>Eastern-Mysticism</li>
 </div>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="float right" src="https://spotify-github-profile.vercel.app/api/view?uid=31aibco3qmsm2nqo4nalcfs2r75m&cover_image=true&theme=default">
-</a>
+
