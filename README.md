@@ -7,13 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)  
-
 <a href="https://guyyatsu.me">
   <img alt="Website" src="https://img.shields.io/website?down_color=black&down_message=offline&label=website&style=for-the-badge&up_color=pink&up_message=online&url=https%3A%2F%2Fguyyatsu.me">
-</a>
-
-<a href="https://blog.guyyatsu.me">
-  <img alt="Website" src="https://img.shields.io/website?down_color=black&down_message=offline&label=blog&style=for-the-badge&up_color=pink&up_message=online&url=https%3A%2F%2Fblog.guyyatsu.me">
 </a>
 
 <!--
